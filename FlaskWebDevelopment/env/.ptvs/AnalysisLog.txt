@@ -3702,3 +3702,501 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-11-04T23:02:06: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms"
 2016-11-04T23:02:06: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms"
 2016-11-04T23:02:06: Deleting 0 files
+
+2016-11-04T23:55:50: Start analysis
+2016-11-04T23:55:50: [WARNING] Library was set explicitly - skipping path detection
+2016-11-04T23:55:50: IncludeModulesFromModulePath = win32com
+2016-11-04T23:55:50: Deleting 0 files
+2016-11-04T23:55:50: Scraping sqlalchemy.cprocessors
+2016-11-04T23:55:50: Command: "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape sqlalchemy.cprocessors "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages" "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\.ptvs\sqlalchemy\sqlalchemy.cprocessors"
+2016-11-04T23:55:51: Scraping sqlalchemy.cresultproxy
+2016-11-04T23:55:51: Command: "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape sqlalchemy.cresultproxy "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages" "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\.ptvs\sqlalchemy\sqlalchemy.cresultproxy"
+2016-11-04T23:55:51: Scraping sqlalchemy.cutils
+2016-11-04T23:55:51: Command: "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape sqlalchemy.cutils "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages" "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\.ptvs\sqlalchemy\sqlalchemy.cutils"
+2016-11-04T23:55:51: Scraped 3 files
+2016-11-04T23:55:51: astropy.CallDepth = 0
+2016-11-04T23:55:51: matplotlib.CallDepth = 3
+2016-11-04T23:55:51: pandas.CallDepth = 0
+2016-11-04T23:55:51: sympy.CallDepth = 0
+2016-11-04T23:55:51: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_sqlalchemy" with 2 files
+2016-11-04T23:55:51: Parsing "flask_sqlalchemy._compat" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_sqlalchemy\_compat.py")
+2016-11-04T23:55:51: Parsing "flask_sqlalchemy" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_sqlalchemy\__init__.py")
+2016-11-04T23:55:51: Parsing complete
+2016-11-04T23:55:51: Analyzing "flask_sqlalchemy._compat"
+2016-11-04T23:55:51: Analyzing "flask_sqlalchemy"
+2016-11-04T23:55:51: Starting analysis of 2 modules
+2016-11-04T23:55:57: Analysis complete
+2016-11-04T23:55:57: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_sqlalchemy"
+2016-11-04T23:55:57: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_sqlalchemy"
+2016-11-04T23:55:57: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy" with 189 files
+2016-11-04T23:55:57: Parsing "sqlalchemy.events" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\events.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.exc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\exc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.inspection" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\inspection.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.interfaces" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\interfaces.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.log" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\log.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.pool" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\pool.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.processors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\processors.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.schema" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\schema.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.types" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\types.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.connectors.mxodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\connectors\mxodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.connectors.pyodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\connectors\pyodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.connectors.zxJDBC" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\connectors\zxJDBC.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.connectors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\connectors\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.databases" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\databases\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.firebird.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\firebird\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.firebird.fdb" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\firebird\fdb.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.firebird.kinterbasdb" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\firebird\kinterbasdb.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.firebird" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\firebird\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.adodbapi" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\adodbapi.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.information_schema" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\information_schema.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.mxodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\mxodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.pymssql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\pymssql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.pyodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\pyodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql.zxjdbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\zxjdbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mssql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mssql\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.cymysql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\cymysql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.enumerated" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\enumerated.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.gaerdbms" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\gaerdbms.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.json" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\json.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.mysqlconnector" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\mysqlconnector.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.mysqldb" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\mysqldb.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.oursql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\oursql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.pymysql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\pymysql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.pyodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\pyodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.reflection" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\reflection.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.types" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\types.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql.zxjdbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\zxjdbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.mysql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\mysql\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.oracle.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\oracle\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.oracle.cx_oracle" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\oracle\cx_oracle.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.oracle.zxjdbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\oracle\zxjdbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.oracle" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\oracle\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.array" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\array.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.dml" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\dml.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.ext" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\ext.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.hstore" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\hstore.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.json" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\json.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.pg8000" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\pg8000.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.psycopg2" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\psycopg2.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.psycopg2cffi" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\psycopg2cffi.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.pygresql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\pygresql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.pypostgresql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\pypostgresql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.ranges" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\ranges.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql.zxjdbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\zxjdbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.postgresql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\postgresql\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sqlite.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sqlite\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sqlite.pysqlcipher" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sqlite\pysqlcipher.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sqlite.pysqlite" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sqlite\pysqlite.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sqlite" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sqlite\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sybase.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sybase\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sybase.mxodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sybase\mxodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sybase.pyodbc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sybase\pyodbc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sybase.pysybase" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sybase\pysybase.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.dialects.sybase" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\dialects\sybase\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.default" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\default.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.interfaces" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\interfaces.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.reflection" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\reflection.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.result" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\result.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.strategies" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\strategies.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.threadlocal" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\threadlocal.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.url" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\url.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine.util" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\util.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.engine" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\engine\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.event.api" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\event\api.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.event.attr" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\event\attr.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.event.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\event\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.event.legacy" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\event\legacy.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.event.registry" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\event\registry.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.event" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\event\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.associationproxy" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\associationproxy.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.automap" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\automap.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.baked" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\baked.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.compiler" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\compiler.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.horizontal_shard" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\horizontal_shard.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.hybrid" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\hybrid.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.indexable" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\indexable.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.instrumentation" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\instrumentation.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.mutable" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\mutable.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.orderinglist" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\orderinglist.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.serializer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\serializer.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.declarative.api" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\declarative\api.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.declarative.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\declarative\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.declarative.clsregistry" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\declarative\clsregistry.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.ext.declarative" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\ext\declarative\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.attributes" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\attributes.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.collections" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\collections.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.dependency" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\dependency.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.deprecated_interfaces" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\deprecated_interfaces.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.descriptor_props" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\descriptor_props.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.dynamic" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\dynamic.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.evaluator" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\evaluator.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.events" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\events.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.exc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\exc.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.identity" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\identity.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.instrumentation" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\instrumentation.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.interfaces" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\interfaces.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.loading" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\loading.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.mapper" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\mapper.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.path_registry" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\path_registry.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.persistence" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\persistence.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.properties" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\properties.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.query" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\query.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.relationships" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\relationships.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.scoping" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\scoping.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.session" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\session.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.state" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\state.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.strategies" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\strategies.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.strategy_options" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\strategy_options.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.sync" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\sync.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.unitofwork" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\unitofwork.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm.util" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\util.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.orm" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\orm\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.annotation" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\annotation.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.compiler" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\compiler.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.crud" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\crud.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.ddl" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\ddl.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.default_comparator" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\default_comparator.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.dml" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\dml.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.elements" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\elements.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.expression" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\expression.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.functions" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\functions.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.naming" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\naming.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.operators" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\operators.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.schema" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\schema.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.selectable" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\selectable.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.sqltypes" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\sqltypes.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.type_api" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\type_api.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.util" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\util.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql.visitors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\visitors.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.sql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\sql\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.assertions" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\assertions.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.assertsql" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\assertsql.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.config" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\config.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.engines" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\engines.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.entities" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\entities.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.exclusions" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\exclusions.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.fixtures" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\fixtures.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.mock" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\mock.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.pickleable" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\pickleable.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.profiling" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\profiling.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.provision" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\provision.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.replay_fixture" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\replay_fixture.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.requirements" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\requirements.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.runner" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\runner.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.schema" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\schema.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.util" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\util.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.warnings" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\warnings.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.plugin.bootstrap" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\plugin\bootstrap.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.plugin.noseplugin" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\plugin\noseplugin.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.plugin.plugin_base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\plugin\plugin_base.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.plugin.pytestplugin" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\plugin\pytestplugin.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.plugin" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\plugin\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_ddl" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_ddl.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_dialect" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_dialect.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_insert" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_insert.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_reflection" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_reflection.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_results" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_results.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_select" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_select.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_sequence" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_sequence.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_types" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_types.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite.test_update_delete" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\test_update_delete.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.testing.suite" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\testing\suite\__init__.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util.compat" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\compat.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util.deprecations" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\deprecations.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util.langhelpers" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\langhelpers.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util.queue" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\queue.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util.topological" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\topological.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util._collections" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\_collections.py")
+2016-11-04T23:55:57: Parsing "sqlalchemy.util" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy\util\__init__.py")
+2016-11-04T23:55:57: Parsing complete
+2016-11-04T23:55:57: Analyzing "sqlalchemy.events"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.exc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.inspection"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.interfaces"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.log"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.pool"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.processors"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.schema"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.types"
+2016-11-04T23:55:57: Analyzing "sqlalchemy"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.connectors.mxodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.connectors.pyodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.connectors.zxJDBC"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.connectors"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.databases"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.firebird.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.firebird.fdb"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.firebird.kinterbasdb"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.firebird"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.adodbapi"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.information_schema"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.mxodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.pymssql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.pyodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql.zxjdbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mssql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.cymysql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.enumerated"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.gaerdbms"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.json"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.mysqlconnector"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.mysqldb"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.oursql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.pymysql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.pyodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.reflection"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.types"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql.zxjdbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.mysql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.oracle.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.oracle.cx_oracle"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.oracle.zxjdbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.oracle"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.array"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.dml"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.ext"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.hstore"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.json"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.pg8000"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.psycopg2"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.psycopg2cffi"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.pygresql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.pypostgresql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.ranges"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql.zxjdbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.postgresql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sqlite.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sqlite.pysqlcipher"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sqlite.pysqlite"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sqlite"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sybase.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sybase.mxodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sybase.pyodbc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sybase.pysybase"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.dialects.sybase"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.default"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.interfaces"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.reflection"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.result"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.strategies"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.threadlocal"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.url"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine.util"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.engine"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.event.api"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.event.attr"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.event.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.event.legacy"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.event.registry"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.event"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.associationproxy"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.automap"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.baked"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.compiler"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.horizontal_shard"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.hybrid"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.indexable"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.instrumentation"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.mutable"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.orderinglist"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.serializer"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.declarative.api"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.declarative.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.declarative.clsregistry"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.ext.declarative"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.attributes"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.collections"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.dependency"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.deprecated_interfaces"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.descriptor_props"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.dynamic"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.evaluator"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.events"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.exc"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.identity"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.instrumentation"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.interfaces"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.loading"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.mapper"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.path_registry"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.persistence"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.properties"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.query"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.relationships"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.scoping"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.session"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.state"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.strategies"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.strategy_options"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.sync"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.unitofwork"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm.util"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.orm"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.annotation"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.compiler"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.crud"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.ddl"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.default_comparator"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.dml"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.elements"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.expression"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.functions"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.naming"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.operators"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.schema"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.selectable"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.sqltypes"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.type_api"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.util"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql.visitors"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.sql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.assertions"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.assertsql"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.config"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.engines"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.entities"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.exclusions"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.fixtures"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.mock"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.pickleable"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.profiling"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.provision"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.replay_fixture"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.requirements"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.runner"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.schema"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.util"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.warnings"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.plugin.bootstrap"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.plugin.noseplugin"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.plugin.plugin_base"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.plugin.pytestplugin"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.plugin"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_ddl"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_dialect"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_insert"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_reflection"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_results"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_select"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_sequence"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_types"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite.test_update_delete"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.testing.suite"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util.compat"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util.deprecations"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util.langhelpers"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util.queue"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util.topological"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util._collections"
+2016-11-04T23:55:57: Analyzing "sqlalchemy.util"
+2016-11-04T23:55:57: Starting analysis of 189 modules
+2016-11-04T23:56:06: Analysis complete
+2016-11-04T23:56:06: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy"
+2016-11-04T23:56:07: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\sqlalchemy"
+2016-11-04T23:56:07: Deleting 0 files
+
+2016-11-05T00:08:20: Start analysis
+2016-11-05T00:08:20: [WARNING] Library was set explicitly - skipping path detection
+2016-11-05T00:08:20: IncludeModulesFromModulePath = win32com
+2016-11-05T00:08:21: Deleting 0 files
+2016-11-05T00:08:21: Scraping psycopg2._psycopg
+2016-11-05T00:08:21: Command: "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape psycopg2._psycopg "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages" "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\.ptvs\psycopg2\psycopg2._psycopg"
+2016-11-05T00:08:21: Scraped 1 files
+2016-11-05T00:08:21: astropy.CallDepth = 0
+2016-11-05T00:08:21: matplotlib.CallDepth = 3
+2016-11-05T00:08:21: pandas.CallDepth = 0
+2016-11-05T00:08:21: sympy.CallDepth = 0
+2016-11-05T00:08:21: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2" with 34 files
+2016-11-05T00:08:21: Parsing "psycopg2.errorcodes" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\errorcodes.py")
+2016-11-05T00:08:21: Parsing "psycopg2.extensions" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\extensions.py")
+2016-11-05T00:08:21: Parsing "psycopg2.extras" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\extras.py")
+2016-11-05T00:08:21: Parsing "psycopg2.pool" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\pool.py")
+2016-11-05T00:08:21: Parsing "psycopg2.psycopg1" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\psycopg1.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tz" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tz.py")
+2016-11-05T00:08:21: Parsing "psycopg2._json" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\_json.py")
+2016-11-05T00:08:21: Parsing "psycopg2._range" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\_range.py")
+2016-11-05T00:08:21: Parsing "psycopg2" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\__init__.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.dbapi20" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\dbapi20.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.dbapi20_tpc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\dbapi20_tpc.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.testconfig" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\testconfig.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.testutils" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\testutils.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_async" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_async.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_bugX000" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_bugX000.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_bug_gc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_bug_gc.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_cancel" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_cancel.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_connection" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_connection.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_copy" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_copy.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_cursor" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_cursor.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_dates" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_dates.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_errcodes" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_errcodes.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_extras_dictcursor" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_extras_dictcursor.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_green" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_green.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_lobject" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_lobject.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_module" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_module.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_notify" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_notify.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_psycopg2_dbapi20" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_psycopg2_dbapi20.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_quote" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_quote.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_transaction" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_transaction.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_types_basic" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_types_basic.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_types_extras" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_types_extras.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests.test_with" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\test_with.py")
+2016-11-05T00:08:21: Parsing "psycopg2.tests" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2\tests\__init__.py")
+2016-11-05T00:08:21: Parsing complete
+2016-11-05T00:08:21: Analyzing "psycopg2.errorcodes"
+2016-11-05T00:08:21: Analyzing "psycopg2.extensions"
+2016-11-05T00:08:21: Analyzing "psycopg2.extras"
+2016-11-05T00:08:21: Analyzing "psycopg2.pool"
+2016-11-05T00:08:21: Analyzing "psycopg2.psycopg1"
+2016-11-05T00:08:21: Analyzing "psycopg2.tz"
+2016-11-05T00:08:21: Analyzing "psycopg2._json"
+2016-11-05T00:08:21: Analyzing "psycopg2._range"
+2016-11-05T00:08:21: Analyzing "psycopg2"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.dbapi20"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.dbapi20_tpc"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.testconfig"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.testutils"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_async"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_bugX000"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_bug_gc"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_cancel"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_connection"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_copy"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_cursor"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_dates"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_errcodes"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_extras_dictcursor"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_green"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_lobject"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_module"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_notify"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_psycopg2_dbapi20"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_quote"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_transaction"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_types_basic"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_types_extras"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests.test_with"
+2016-11-05T00:08:21: Analyzing "psycopg2.tests"
+2016-11-05T00:08:21: Starting analysis of 34 modules
+2016-11-05T00:08:23: Analysis complete
+2016-11-05T00:08:23: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2"
+2016-11-05T00:08:23: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\psycopg2"
+2016-11-05T00:08:23: Deleting 0 files
