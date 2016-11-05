@@ -3578,3 +3578,127 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-11-04T16:38:15: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\pip-9.0.0-py3.4.egg\pip"
 2016-11-04T16:38:15: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\pip-9.0.0-py3.4.egg\pip"
 2016-11-04T16:38:15: Deleting 0 files
+
+2016-11-04T23:02:03: Start analysis
+2016-11-04T23:02:03: [WARNING] Library was set explicitly - skipping path detection
+2016-11-04T23:02:03: IncludeModulesFromModulePath = win32com
+2016-11-04T23:02:03: Deleting 0 files
+2016-11-04T23:02:03: astropy.CallDepth = 0
+2016-11-04T23:02:03: matplotlib.CallDepth = 3
+2016-11-04T23:02:03: pandas.CallDepth = 0
+2016-11-04T23:02:03: sympy.CallDepth = 0
+2016-11-04T23:02:03: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf" with 11 files
+2016-11-04T23:02:03: Parsing "flask_wtf.csrf" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\csrf.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.file" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\file.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.form" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\form.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.html5" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\html5.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.i18n" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\i18n.py")
+2016-11-04T23:02:03: Parsing "flask_wtf._compat" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\_compat.py")
+2016-11-04T23:02:03: Parsing "flask_wtf" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\__init__.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.recaptcha.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\recaptcha\fields.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.recaptcha.validators" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\recaptcha\validators.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.recaptcha.widgets" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\recaptcha\widgets.py")
+2016-11-04T23:02:03: Parsing "flask_wtf.recaptcha" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf\recaptcha\__init__.py")
+2016-11-04T23:02:03: Parsing complete
+2016-11-04T23:02:03: Analyzing "flask_wtf.csrf"
+2016-11-04T23:02:03: Analyzing "flask_wtf.file"
+2016-11-04T23:02:03: Analyzing "flask_wtf.form"
+2016-11-04T23:02:03: Analyzing "flask_wtf.html5"
+2016-11-04T23:02:03: Analyzing "flask_wtf.i18n"
+2016-11-04T23:02:03: Analyzing "flask_wtf._compat"
+2016-11-04T23:02:03: Analyzing "flask_wtf"
+2016-11-04T23:02:03: Analyzing "flask_wtf.recaptcha.fields"
+2016-11-04T23:02:03: Analyzing "flask_wtf.recaptcha.validators"
+2016-11-04T23:02:03: Analyzing "flask_wtf.recaptcha.widgets"
+2016-11-04T23:02:03: Analyzing "flask_wtf.recaptcha"
+2016-11-04T23:02:03: Starting analysis of 11 modules
+2016-11-04T23:02:04: Analysis complete
+2016-11-04T23:02:04: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf"
+2016-11-04T23:02:05: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_wtf"
+2016-11-04T23:02:05: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms" with 40 files
+2016-11-04T23:02:05: Parsing "wtforms.compat" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\compat.py")
+2016-11-04T23:02:05: Parsing "wtforms.form" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\form.py")
+2016-11-04T23:02:05: Parsing "wtforms.i18n" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\i18n.py")
+2016-11-04T23:02:05: Parsing "wtforms.meta" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\meta.py")
+2016-11-04T23:02:05: Parsing "wtforms.utils" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\utils.py")
+2016-11-04T23:02:05: Parsing "wtforms.validators" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\validators.py")
+2016-11-04T23:02:05: Parsing "wtforms" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.csrf.core" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\csrf\core.py")
+2016-11-04T23:02:05: Parsing "wtforms.csrf.session" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\csrf\session.py")
+2016-11-04T23:02:05: Parsing "wtforms.csrf" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\csrf\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.appengine.db" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\appengine\db.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.appengine.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\appengine\fields.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.appengine.ndb" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\appengine\ndb.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.appengine" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\appengine\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.csrf.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\csrf\fields.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.csrf.form" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\csrf\form.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.csrf.session" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\csrf\session.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.csrf" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\csrf\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.dateutil.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\dateutil\fields.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.dateutil" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\dateutil\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.django.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\django\fields.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.django.i18n" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\django\i18n.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.django.orm" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\django\orm.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.django" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\django\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.django.templatetags.wtforms" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\django\templatetags\wtforms.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.django.templatetags" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\django\templatetags\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.i18n.form" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\i18n\form.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.i18n.utils" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\i18n\utils.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.i18n" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\i18n\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.sqlalchemy.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\sqlalchemy\fields.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.sqlalchemy.orm" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\sqlalchemy\orm.py")
+2016-11-04T23:02:05: Parsing "wtforms.ext.sqlalchemy" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\ext\sqlalchemy\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.fields.core" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\fields\core.py")
+2016-11-04T23:02:05: Parsing "wtforms.fields.html5" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\fields\html5.py")
+2016-11-04T23:02:05: Parsing "wtforms.fields.simple" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\fields\simple.py")
+2016-11-04T23:02:05: Parsing "wtforms.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\fields\__init__.py")
+2016-11-04T23:02:05: Parsing "wtforms.widgets.core" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\widgets\core.py")
+2016-11-04T23:02:05: Parsing "wtforms.widgets.html5" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\widgets\html5.py")
+2016-11-04T23:02:05: Parsing "wtforms.widgets" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms\widgets\__init__.py")
+2016-11-04T23:02:05: Parsing complete
+2016-11-04T23:02:05: Analyzing "wtforms.compat"
+2016-11-04T23:02:05: Analyzing "wtforms.form"
+2016-11-04T23:02:05: Analyzing "wtforms.i18n"
+2016-11-04T23:02:05: Analyzing "wtforms.meta"
+2016-11-04T23:02:05: Analyzing "wtforms.utils"
+2016-11-04T23:02:05: Analyzing "wtforms.validators"
+2016-11-04T23:02:05: Analyzing "wtforms"
+2016-11-04T23:02:05: Analyzing "wtforms.csrf.core"
+2016-11-04T23:02:05: Analyzing "wtforms.csrf.session"
+2016-11-04T23:02:05: Analyzing "wtforms.csrf"
+2016-11-04T23:02:05: Analyzing "wtforms.ext"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.appengine.db"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.appengine.fields"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.appengine.ndb"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.appengine"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.csrf.fields"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.csrf.form"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.csrf.session"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.csrf"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.dateutil.fields"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.dateutil"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.django.fields"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.django.i18n"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.django.orm"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.django"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.django.templatetags.wtforms"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.django.templatetags"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.i18n.form"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.i18n.utils"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.i18n"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.sqlalchemy.fields"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.sqlalchemy.orm"
+2016-11-04T23:02:05: Analyzing "wtforms.ext.sqlalchemy"
+2016-11-04T23:02:05: Analyzing "wtforms.fields.core"
+2016-11-04T23:02:05: Analyzing "wtforms.fields.html5"
+2016-11-04T23:02:05: Analyzing "wtforms.fields.simple"
+2016-11-04T23:02:05: Analyzing "wtforms.fields"
+2016-11-04T23:02:05: Analyzing "wtforms.widgets.core"
+2016-11-04T23:02:05: Analyzing "wtforms.widgets.html5"
+2016-11-04T23:02:05: Analyzing "wtforms.widgets"
+2016-11-04T23:02:05: Starting analysis of 40 modules
+2016-11-04T23:02:06: Analysis complete
+2016-11-04T23:02:06: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms"
+2016-11-04T23:02:06: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\wtforms"
+2016-11-04T23:02:06: Deleting 0 files

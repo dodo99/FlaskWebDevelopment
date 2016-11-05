@@ -1,0 +1,8 @@
+PY2
+FlaskWTFDeprecationWarning
+text_type
+warnings
+to_unicode
+to_bytes
+string_types
+sys
