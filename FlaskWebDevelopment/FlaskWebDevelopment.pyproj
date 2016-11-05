@@ -32,8 +32,12 @@
     <Compile Include="manager.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="migrations\env.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="migrations\alembic.ini" />
+    <Content Include="migrations\README" />
+    <Content Include="migrations\script.py.mako" />
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.css" />
     <Content Include="static\content\bootstrap.min.css" />
@@ -65,6 +69,8 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="migrations\" />
+    <Folder Include="migrations\versions\" />
     <Folder Include="static\" />
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />

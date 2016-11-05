@@ -12,6 +12,8 @@ from flask_wtf import Form
 from wtforms import StringField, SubmitField
 from wtforms.validators import Required
 from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate, MigrateCommand
+
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard to guess string'
@@ -22,6 +24,7 @@ manager = Manager(app)
 bootstrap = Bootstrap(app)
 moment = Moment(app)
 db = SQLAlchemy(app)
+migrate = Migrate(app, db)
 
 
 # Make the WSGI interface available at the top level so wfastcgi can get it.
@@ -55,7 +58,8 @@ class NameForm(Form):
 def make_shell_context():
     return dict(app=app, db=db, User=User, Role=Role)
 
-manager.add_command("shell", Shell(make_context=make_shell_context))
+manager.add_command('shell', Shell(make_context=make_shell_context))
+manager.add_command('db', MigrateCommand)
 
 
 @app.errorhandler(404)
