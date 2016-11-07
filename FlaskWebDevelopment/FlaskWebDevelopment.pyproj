@@ -16,7 +16,7 @@
     <PythonWsgiHandler>{StartupModule}.wsgi_app</PythonWsgiHandler>
     <Name>FlaskWebDevelopment</Name>
     <RootNamespace>FlaskWebDevelopment</RootNamespace>
-    <InterpreterId>{ed012203-34ad-41d4-a6dc-acdbefbe8be3}</InterpreterId>
+    <InterpreterId>{5823a4fe-b3d3-4bfb-9d46-e2fe7c7ee994}</InterpreterId>
     <InterpreterVersion>3.4</InterpreterVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -28,6 +28,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="app\auth\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\auth\views.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\auth\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\email.py">
       <SubType>Code</SubType>
     </Compile>
@@ -60,11 +69,27 @@
     <Compile Include="tests\test_basics.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="tests\test_user_model.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tests\__init__.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\auth\change_email.html" />
+    <Content Include="app\templates\auth\change_password.html" />
+    <Content Include="app\templates\auth\email\change_email.html" />
+    <Content Include="app\templates\auth\email\confirm.html" />
+    <Content Include="app\templates\auth\email\confirm.txt" />
+    <Content Include="app\templates\auth\email\reset_password.html" />
+    <Content Include="app\templates\auth\email\reset_password.txt" />
+    <Content Include="app\templates\auth\email\change_email.txt" />
+    <Content Include="app\templates\auth\login.html" />
+    <Content Include="app\templates\auth\register.html" />
+    <Content Include="app\templates\auth\reset_password.html" />
+    <Content Include="app\templates\auth\unconfirmed.html" />
+    <Content Include="app\templates\mail\new_user.html" />
     <Content Include="migrations\alembic.ini" />
     <Content Include="migrations\README" />
     <Content Include="migrations\script.py.mako" />
@@ -86,19 +111,10 @@
     <Content Include="app\templates\user.html" />
   </ItemGroup>
   <ItemGroup>
-    <Interpreter Include="env\">
-      <Id>{ed012203-34ad-41d4-a6dc-acdbefbe8be3}</Id>
-      <BaseInterpreter>{2af0f10d-7135-4994-9156-5d01c9c11b7e}</BaseInterpreter>
-      <Version>3.4</Version>
-      <Description>env (Python 3.4)</Description>
-      <InterpreterPath>Scripts\python.exe</InterpreterPath>
-      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
-      <LibraryPath>Lib\</LibraryPath>
-      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
-      <Architecture>X86</Architecture>
-    </Interpreter>
-  </ItemGroup>
-  <ItemGroup>
+    <Folder Include="app\auth\" />
+    <Folder Include="app\templates\auth\" />
+    <Folder Include="app\templates\auth\email\" />
+    <Folder Include="app\templates\mail\" />
     <Folder Include="migrations\" />
     <Folder Include="migrations\versions\" />
     <Folder Include="app\main\" />
@@ -109,6 +125,19 @@
     <Folder Include="static\fonts\" />
     <Folder Include="static\scripts\" />
     <Folder Include="app\templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>{5823a4fe-b3d3-4bfb-9d46-e2fe7c7ee994}</Id>
+      <BaseInterpreter>{2af0f10d-7135-4994-9156-5d01c9c11b7e}</BaseInterpreter>
+      <Version>3.4</Version>
+      <Description>env (Python 3.4)</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <LibraryPath>Lib\</LibraryPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X86</Architecture>
+    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
