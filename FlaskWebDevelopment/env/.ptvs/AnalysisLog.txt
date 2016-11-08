@@ -7522,3 +7522,8 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-11-06T01:25:42: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_login"
 2016-11-06T01:25:42: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_login"
 2016-11-06T01:25:42: Deleting 0 files
+
+2016-11-07T19:39:46: Start analysis
+2016-11-07T19:39:46: [WARNING] Library was set explicitly - skipping path detection
+2016-11-07T19:39:46: IncludeModulesFromModulePath = win32com
+2016-11-07T19:39:47: Deleting 0 files

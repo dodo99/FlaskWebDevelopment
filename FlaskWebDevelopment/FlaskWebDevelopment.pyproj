@@ -61,6 +61,9 @@
     <Compile Include="config.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="decorators.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="manage.py" />
     <Compile Include="run_manage.py">
       <SubType>Code</SubType>
@@ -119,6 +122,7 @@
     <Folder Include="migrations\versions\" />
     <Folder Include="app\main\" />
     <Folder Include="app\" />
+    <Folder Include="static\" />
     <Folder Include="tests\" />
     <Folder Include="app\static\" />
     <Folder Include="app\static\content\" />
