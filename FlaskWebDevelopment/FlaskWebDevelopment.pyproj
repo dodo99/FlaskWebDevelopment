@@ -80,6 +80,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\static\styles.css" />
     <Content Include="app\templates\403.html" />
     <Content Include="app\templates\auth\change_email.html" />
     <Content Include="app\templates\auth\change_password.html" />
