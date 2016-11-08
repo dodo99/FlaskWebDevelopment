@@ -61,7 +61,7 @@
     <Compile Include="config.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="decorators.py">
+    <Compile Include="app\decorators.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="manage.py" />
@@ -80,6 +80,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\403.html" />
     <Content Include="app\templates\auth\change_email.html" />
     <Content Include="app\templates\auth\change_password.html" />
     <Content Include="app\templates\auth\email\change_email.html" />
@@ -92,6 +93,7 @@
     <Content Include="app\templates\auth\register.html" />
     <Content Include="app\templates\auth\reset_password.html" />
     <Content Include="app\templates\auth\unconfirmed.html" />
+    <Content Include="app\templates\edit_profile.html" />
     <Content Include="app\templates\mail\new_user.html" />
     <Content Include="migrations\alembic.ini" />
     <Content Include="migrations\README" />
