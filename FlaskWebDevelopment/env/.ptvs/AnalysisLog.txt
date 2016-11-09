@@ -7527,3 +7527,41 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-11-07T19:39:46: [WARNING] Library was set explicitly - skipping path detection
 2016-11-07T19:39:46: IncludeModulesFromModulePath = win32com
 2016-11-07T19:39:47: Deleting 0 files
+
+2016-11-09T17:17:11: Start analysis
+2016-11-09T17:17:11: [WARNING] Library was set explicitly - skipping path detection
+2016-11-09T17:17:11: IncludeModulesFromModulePath = win32com
+2016-11-09T17:17:11: Deleting 0 files
+2016-11-09T17:17:11: astropy.CallDepth = 0
+2016-11-09T17:17:11: matplotlib.CallDepth = 3
+2016-11-09T17:17:11: pandas.CallDepth = 0
+2016-11-09T17:17:11: sympy.CallDepth = 0
+2016-11-09T17:17:11: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py" with 11 files
+2016-11-09T17:17:11: Parsing "forgery_py.dictionaries_loader" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\dictionaries_loader.py")
+2016-11-09T17:17:11: Parsing "forgery_py" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\__init__.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.address" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\address.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.basic" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\basic.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.currency" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\currency.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.date" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\date.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.internet" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\internet.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.lorem_ipsum" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\lorem_ipsum.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.name" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\name.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery.personal" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\personal.py")
+2016-11-09T17:17:11: Parsing "forgery_py.forgery" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py\forgery\__init__.py")
+2016-11-09T17:17:11: Parsing complete
+2016-11-09T17:17:11: Analyzing "forgery_py.dictionaries_loader"
+2016-11-09T17:17:11: Analyzing "forgery_py"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.address"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.basic"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.currency"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.date"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.internet"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.lorem_ipsum"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.name"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery.personal"
+2016-11-09T17:17:11: Analyzing "forgery_py.forgery"
+2016-11-09T17:17:11: Starting analysis of 11 modules
+2016-11-09T17:17:16: Analysis complete
+2016-11-09T17:17:16: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py"
+2016-11-09T17:17:16: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py"
+2016-11-09T17:17:17: Deleting 0 files
