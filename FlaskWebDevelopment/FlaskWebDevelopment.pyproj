@@ -106,9 +106,11 @@
     <Content Include="migrations\alembic.ini" />
     <Content Include="migrations\README" />
     <Content Include="migrations\script.py.mako" />
-    <Content Include="requirements.txt" />
     <Content Include="app\static\content\bootstrap.css" />
     <Content Include="app\static\content\bootstrap.min.css" />
+    <Content Include="requirements\common.txt" />
+    <Content Include="requirements\dev.txt" />
+    <Content Include="requirements\prod.txt" />
     <Content Include="static\favicon.ico" />
     <Content Include="static\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
@@ -132,6 +134,7 @@
     <Folder Include="migrations\versions\" />
     <Folder Include="app\main\" />
     <Folder Include="app\" />
+    <Folder Include="requirements\" />
     <Folder Include="static\" />
     <Folder Include="tests\" />
     <Folder Include="app\static\" />
