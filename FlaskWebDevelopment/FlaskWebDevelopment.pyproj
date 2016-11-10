@@ -70,6 +70,7 @@
     <Compile Include="migrations\versions\768b9b2f5a56_users_confirmation.py" />
     <Compile Include="migrations\versions\76fe9a7b6ef5_roles_permissions.py" />
     <Compile Include="migrations\versions\977035ee61da_author.py" />
+    <Compile Include="migrations\versions\9b08ce2c3e22_avatar_info.py" />
     <Compile Include="migrations\versions\f4bd5c9c6a52_.py" />
     <Compile Include="run_manage.py">
       <SubType>Code</SubType>
@@ -102,6 +103,7 @@
     <Content Include="app\templates\auth\unconfirmed.html" />
     <Content Include="app\templates\edit_profile.html" />
     <Content Include="app\templates\mail\new_user.html" />
+    <Content Include="app\templates\_macros.html" />
     <Content Include="app\templates\_posts.html" />
     <Content Include="migrations\alembic.ini" />
     <Content Include="migrations\README" />
