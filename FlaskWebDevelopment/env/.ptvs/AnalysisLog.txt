@@ -7565,3 +7565,185 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-11-09T17:17:16: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py"
 2016-11-09T17:17:16: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\forgery_py"
 2016-11-09T17:17:17: Deleting 0 files
+
+2016-11-10T11:52:03: Start analysis
+2016-11-10T11:52:03: [WARNING] Library was set explicitly - skipping path detection
+2016-11-10T11:52:03: IncludeModulesFromModulePath = win32com
+2016-11-10T11:52:04: Deleting 0 files
+2016-11-10T11:52:04: astropy.CallDepth = 0
+2016-11-10T11:52:04: matplotlib.CallDepth = 3
+2016-11-10T11:52:04: pandas.CallDepth = 0
+2016-11-10T11:52:04: sympy.CallDepth = 0
+2016-11-10T11:52:04: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach" with 5 files
+2016-11-10T11:52:04: Parsing "bleach.callbacks" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach\callbacks.py")
+2016-11-10T11:52:04: Parsing "bleach.encoding" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach\encoding.py")
+2016-11-10T11:52:04: Parsing "bleach.sanitizer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach\sanitizer.py")
+2016-11-10T11:52:04: Parsing "bleach.version" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach\version.py")
+2016-11-10T11:52:04: Parsing "bleach" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach\__init__.py")
+2016-11-10T11:52:04: Parsing complete
+2016-11-10T11:52:04: Analyzing "bleach.callbacks"
+2016-11-10T11:52:04: Analyzing "bleach.encoding"
+2016-11-10T11:52:04: Analyzing "bleach.sanitizer"
+2016-11-10T11:52:04: Analyzing "bleach.version"
+2016-11-10T11:52:04: Analyzing "bleach"
+2016-11-10T11:52:04: Starting analysis of 5 modules
+2016-11-10T11:52:05: Analysis complete
+2016-11-10T11:52:05: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach"
+2016-11-10T11:52:05: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\bleach"
+2016-11-10T11:52:05: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_pagedown" with 3 files
+2016-11-10T11:52:05: Parsing "flask_pagedown.fields" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_pagedown\fields.py")
+2016-11-10T11:52:05: Parsing "flask_pagedown.widgets" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_pagedown\widgets.py")
+2016-11-10T11:52:05: Parsing "flask_pagedown" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_pagedown\__init__.py")
+2016-11-10T11:52:05: Parsing complete
+2016-11-10T11:52:05: Analyzing "flask_pagedown.fields"
+2016-11-10T11:52:05: Analyzing "flask_pagedown.widgets"
+2016-11-10T11:52:05: Analyzing "flask_pagedown"
+2016-11-10T11:52:05: Starting analysis of 3 modules
+2016-11-10T11:52:05: Analysis complete
+2016-11-10T11:52:05: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_pagedown"
+2016-11-10T11:52:06: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\flask_pagedown"
+2016-11-10T11:52:06: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib" with 36 files
+2016-11-10T11:52:06: Parsing "html5lib.constants" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\constants.py")
+2016-11-10T11:52:06: Parsing "html5lib.html5parser" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\html5parser.py")
+2016-11-10T11:52:06: Parsing "html5lib.ihatexml" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\ihatexml.py")
+2016-11-10T11:52:06: Parsing "html5lib.inputstream" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\inputstream.py")
+2016-11-10T11:52:06: Parsing "html5lib.sanitizer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\sanitizer.py")
+2016-11-10T11:52:06: Parsing "html5lib.tokenizer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\tokenizer.py")
+2016-11-10T11:52:06: Parsing "html5lib.utils" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\utils.py")
+2016-11-10T11:52:06: Parsing "html5lib" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\__init__.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters.alphabeticalattributes" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\alphabeticalattributes.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters.inject_meta_charset" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\inject_meta_charset.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters.lint" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\lint.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters.optionaltags" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\optionaltags.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters.sanitizer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\sanitizer.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters.whitespace" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\whitespace.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters._base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\_base.py")
+2016-11-10T11:52:06: Parsing "html5lib.filters" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\filters\__init__.py")
+2016-11-10T11:52:06: Parsing "html5lib.serializer.htmlserializer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\serializer\htmlserializer.py")
+2016-11-10T11:52:06: Parsing "html5lib.serializer" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\serializer\__init__.py")
+2016-11-10T11:52:06: Parsing "html5lib.treeadapters.sax" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treeadapters\sax.py")
+2016-11-10T11:52:06: Parsing "html5lib.treeadapters" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treeadapters\__init__.py")
+2016-11-10T11:52:06: Parsing "html5lib.treebuilders.dom" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treebuilders\dom.py")
+2016-11-10T11:52:06: Parsing "html5lib.treebuilders.etree" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treebuilders\etree.py")
+2016-11-10T11:52:06: Parsing "html5lib.treebuilders.etree_lxml" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treebuilders\etree_lxml.py")
+2016-11-10T11:52:06: Parsing "html5lib.treebuilders._base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treebuilders\_base.py")
+2016-11-10T11:52:06: Parsing "html5lib.treebuilders" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treebuilders\__init__.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers.dom" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\dom.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers.etree" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\etree.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers.genshistream" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\genshistream.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers.lxmletree" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\lxmletree.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers.pulldom" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\pulldom.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers._base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\_base.py")
+2016-11-10T11:52:06: Parsing "html5lib.treewalkers" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\treewalkers\__init__.py")
+2016-11-10T11:52:06: Parsing "html5lib.trie.datrie" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\trie\datrie.py")
+2016-11-10T11:52:06: Parsing "html5lib.trie.py" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\trie\py.py")
+2016-11-10T11:52:06: Parsing "html5lib.trie._base" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\trie\_base.py")
+2016-11-10T11:52:06: Parsing "html5lib.trie" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib\trie\__init__.py")
+2016-11-10T11:52:06: Parsing complete
+2016-11-10T11:52:06: Analyzing "html5lib.constants"
+2016-11-10T11:52:06: Analyzing "html5lib.html5parser"
+2016-11-10T11:52:06: Analyzing "html5lib.ihatexml"
+2016-11-10T11:52:06: Analyzing "html5lib.inputstream"
+2016-11-10T11:52:06: Analyzing "html5lib.sanitizer"
+2016-11-10T11:52:06: Analyzing "html5lib.tokenizer"
+2016-11-10T11:52:06: Analyzing "html5lib.utils"
+2016-11-10T11:52:06: Analyzing "html5lib"
+2016-11-10T11:52:06: Analyzing "html5lib.filters.alphabeticalattributes"
+2016-11-10T11:52:06: Analyzing "html5lib.filters.inject_meta_charset"
+2016-11-10T11:52:06: Analyzing "html5lib.filters.lint"
+2016-11-10T11:52:06: Analyzing "html5lib.filters.optionaltags"
+2016-11-10T11:52:06: Analyzing "html5lib.filters.sanitizer"
+2016-11-10T11:52:06: Analyzing "html5lib.filters.whitespace"
+2016-11-10T11:52:06: Analyzing "html5lib.filters._base"
+2016-11-10T11:52:06: Analyzing "html5lib.filters"
+2016-11-10T11:52:06: Analyzing "html5lib.serializer.htmlserializer"
+2016-11-10T11:52:06: Analyzing "html5lib.serializer"
+2016-11-10T11:52:06: Analyzing "html5lib.treeadapters.sax"
+2016-11-10T11:52:06: Analyzing "html5lib.treeadapters"
+2016-11-10T11:52:06: Analyzing "html5lib.treebuilders.dom"
+2016-11-10T11:52:06: Analyzing "html5lib.treebuilders.etree"
+2016-11-10T11:52:06: Analyzing "html5lib.treebuilders.etree_lxml"
+2016-11-10T11:52:06: Analyzing "html5lib.treebuilders._base"
+2016-11-10T11:52:06: Analyzing "html5lib.treebuilders"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers.dom"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers.etree"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers.genshistream"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers.lxmletree"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers.pulldom"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers._base"
+2016-11-10T11:52:06: Analyzing "html5lib.treewalkers"
+2016-11-10T11:52:06: Analyzing "html5lib.trie.datrie"
+2016-11-10T11:52:06: Analyzing "html5lib.trie.py"
+2016-11-10T11:52:06: Analyzing "html5lib.trie._base"
+2016-11-10T11:52:06: Analyzing "html5lib.trie"
+2016-11-10T11:52:06: Starting analysis of 36 modules
+2016-11-10T11:52:08: Analysis complete
+2016-11-10T11:52:08: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib"
+2016-11-10T11:52:08: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\html5lib"
+2016-11-10T11:52:08: Start group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown" with 30 files
+2016-11-10T11:52:08: Parsing "markdown.blockparser" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\blockparser.py")
+2016-11-10T11:52:08: Parsing "markdown.blockprocessors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\blockprocessors.py")
+2016-11-10T11:52:08: Parsing "markdown.inlinepatterns" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\inlinepatterns.py")
+2016-11-10T11:52:08: Parsing "markdown.odict" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\odict.py")
+2016-11-10T11:52:08: Parsing "markdown.postprocessors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\postprocessors.py")
+2016-11-10T11:52:08: Parsing "markdown.preprocessors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\preprocessors.py")
+2016-11-10T11:52:08: Parsing "markdown.serializers" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\serializers.py")
+2016-11-10T11:52:08: Parsing "markdown.treeprocessors" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\treeprocessors.py")
+2016-11-10T11:52:08: Parsing "markdown.util" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\util.py")
+2016-11-10T11:52:08: Parsing "markdown" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\__init__.py")
+2016-11-10T11:52:08: Parsing "markdown.__main__" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\__main__.py")
+2016-11-10T11:52:08: Parsing "markdown.__version__" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\__version__.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.abbr" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\abbr.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.admonition" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\admonition.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.attr_list" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\attr_list.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.codehilite" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\codehilite.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.def_list" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\def_list.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.extra" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\extra.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.fenced_code" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\fenced_code.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.footnotes" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\footnotes.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.headerid" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\headerid.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.meta" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\meta.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.nl2br" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\nl2br.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.sane_lists" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\sane_lists.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.smarty" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\smarty.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.smart_strong" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\smart_strong.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.tables" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\tables.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.toc" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\toc.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions.wikilinks" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\wikilinks.py")
+2016-11-10T11:52:08: Parsing "markdown.extensions" ("D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown\extensions\__init__.py")
+2016-11-10T11:52:08: Parsing complete
+2016-11-10T11:52:08: Analyzing "markdown.blockparser"
+2016-11-10T11:52:08: Analyzing "markdown.blockprocessors"
+2016-11-10T11:52:08: Analyzing "markdown.inlinepatterns"
+2016-11-10T11:52:08: Analyzing "markdown.odict"
+2016-11-10T11:52:08: Analyzing "markdown.postprocessors"
+2016-11-10T11:52:08: Analyzing "markdown.preprocessors"
+2016-11-10T11:52:08: Analyzing "markdown.serializers"
+2016-11-10T11:52:08: Analyzing "markdown.treeprocessors"
+2016-11-10T11:52:08: Analyzing "markdown.util"
+2016-11-10T11:52:08: Analyzing "markdown"
+2016-11-10T11:52:08: Analyzing "markdown.__main__"
+2016-11-10T11:52:08: Analyzing "markdown.__version__"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.abbr"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.admonition"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.attr_list"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.codehilite"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.def_list"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.extra"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.fenced_code"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.footnotes"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.headerid"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.meta"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.nl2br"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.sane_lists"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.smarty"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.smart_strong"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.tables"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.toc"
+2016-11-10T11:52:08: Analyzing "markdown.extensions.wikilinks"
+2016-11-10T11:52:08: Analyzing "markdown.extensions"
+2016-11-10T11:52:08: Starting analysis of 30 modules
+2016-11-10T11:52:10: Analysis complete
+2016-11-10T11:52:10: Saving group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown"
+2016-11-10T11:52:10: End of group "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Lib\site-packages\markdown"
+2016-11-10T11:52:10: Deleting 0 files

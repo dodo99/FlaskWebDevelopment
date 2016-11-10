@@ -1,0 +1,1 @@
+@"D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Scripts\python.exe" "D:\Documents\Visual Studio 2015\Projects\FlaskWebDevelopment\FlaskWebDevelopment\env\Scripts\markdown_py" %*

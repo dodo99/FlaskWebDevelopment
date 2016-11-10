@@ -1,7 +1,9 @@
+Flask==0.11.1
 Flask-Moment==0.5.1
 Flask-Script==2.0.5
 Flask-SQLAlchemy==2.1
 Flask-WTF==0.13.1
+Flask-PageDown==0.2.2
 geocoder==1.17.4
 gunicorn==19.6.0
 itsdangerous==0.24
