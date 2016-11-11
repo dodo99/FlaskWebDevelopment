@@ -108,6 +108,7 @@
     <Content Include="app\templates\edit_profile.html" />
     <Content Include="app\templates\followers.html" />
     <Content Include="app\templates\mail\new_user.html" />
+    <Content Include="app\templates\moderate.html" />
     <Content Include="app\templates\post.html" />
     <Content Include="app\templates\_comments.html" />
     <Content Include="app\templates\_macros.html" />
