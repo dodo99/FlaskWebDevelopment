@@ -72,6 +72,7 @@
     <Compile Include="migrations\versions\977035ee61da_author.py" />
     <Compile Include="migrations\versions\9b08ce2c3e22_avatar_info.py" />
     <Compile Include="migrations\versions\b25c24f64f11_posts_rich_body.py" />
+    <Compile Include="migrations\versions\cf61a68007d4_followers.py" />
     <Compile Include="migrations\versions\f4bd5c9c6a52_.py" />
     <Compile Include="run_manage.py">
       <SubType>Code</SubType>
