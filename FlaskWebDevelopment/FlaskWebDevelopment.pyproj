@@ -65,6 +65,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="manage.py" />
+    <Compile Include="migrations\versions\2d9a9fbefcad_comments.py" />
     <Compile Include="migrations\versions\5db76ae5aef7_users_info.py" />
     <Compile Include="migrations\versions\60e2d9486bdf_post_table.py" />
     <Compile Include="migrations\versions\768b9b2f5a56_users_confirmation.py" />
@@ -108,6 +109,7 @@
     <Content Include="app\templates\followers.html" />
     <Content Include="app\templates\mail\new_user.html" />
     <Content Include="app\templates\post.html" />
+    <Content Include="app\templates\_comments.html" />
     <Content Include="app\templates\_macros.html" />
     <Content Include="app\templates\_posts.html" />
     <Content Include="migrations\alembic.ini" />

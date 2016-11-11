@@ -50,6 +50,10 @@ class PostForm(Form):
     submit = SubmitField('Submit')
 
 
+class CommentForm(Form):
+    body = StringField('Enter your comment', validators=[Required()])
+    submit = SubmitField('Submit')
+
 
 
 
