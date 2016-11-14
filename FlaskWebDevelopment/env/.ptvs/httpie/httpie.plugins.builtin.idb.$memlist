@@ -1,0 +1,7 @@
+AuthPlugin
+requests
+b64encode
+BuiltinAuthPlugin
+HTTPBasicAuth
+BasicAuthPlugin
+DigestAuthPlugin

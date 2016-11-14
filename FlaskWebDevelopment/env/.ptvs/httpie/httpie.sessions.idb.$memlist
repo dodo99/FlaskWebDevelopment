@@ -1,0 +1,14 @@
+get_response
+Session
+SESSION_IGNORED_HEADER_PREFIXES
+BaseConfigDict
+DEFAULT_CONFIG_DIR
+VALID_SESSION_NAME_PATTERN
+plugin_manager
+RequestsCookieJar
+create_cookie
+os
+SESSIONS_DIR_NAME
+urlsplit
+DEFAULT_SESSIONS_DIR
+re

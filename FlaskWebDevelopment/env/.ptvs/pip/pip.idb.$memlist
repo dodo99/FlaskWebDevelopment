@@ -3,9 +3,9 @@ get_summaries
 PipError
 UpdatingDefaultsHelpFormatter
 InstallationError
+__main__
 operations
 models
-__main__
 baseparser
 wheel
 exceptions
@@ -16,7 +16,7 @@ ConfigOptionParser
 status_codes
 dist_is_editable
 deprecation
-_vendor
+compat
 CommandError
 commands_dict
 bazaar
@@ -39,7 +39,7 @@ commands
 FrozenRequirement
 logging
 subversion
-compat
+_vendor
 autocomplete
 os
 mercurial

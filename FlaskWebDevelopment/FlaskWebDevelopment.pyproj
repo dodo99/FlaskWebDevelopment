@@ -28,6 +28,27 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="app\api_1_0\authentication.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\api_1_0\comments.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\api_1_0\decorators.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\api_1_0\errors.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\api_1_0\posts.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\api_1_0\users.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\api_1_0\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\auth\forms.py">
       <SubType>Code</SubType>
     </Compile>
@@ -38,6 +59,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="app\email.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="app\exceptions.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="app\main\errors.py">
@@ -106,6 +130,7 @@
     <Content Include="app\templates\auth\unconfirmed.html" />
     <Content Include="app\templates\edit_post.html" />
     <Content Include="app\templates\edit_profile.html" />
+    <Content Include="app\templates\error_page.html" />
     <Content Include="app\templates\followers.html" />
     <Content Include="app\templates\mail\new_user.html" />
     <Content Include="app\templates\moderate.html" />
@@ -137,6 +162,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\auth\" />
+    <Folder Include="app\api_1_0\" />
     <Folder Include="app\templates\auth\" />
     <Folder Include="app\templates\auth\email\" />
     <Folder Include="app\templates\mail\" />
